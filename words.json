@@ -7,6 +7,456 @@
       "translation": "Yazıcılar, ses kayıtlarını yazılı metne dönüştürmek için özenle çalıştılar."
     },
     {
+      "word": "cook",
+      "example": "She loves to cook traditional Turkish dishes.",
+      "meaning": "pişirmek, yemek yapmak",
+      "translation": "Geleneksel Türk yemeklerini pişirmeyi seviyor."
+    },
+    {
+      "word": "get drown",
+      "example": "Be careful not to get drown in the deep water.",
+      "meaning": "boğulmak",
+      "translation": "Derin suda boğulmamaya dikkat et."
+    },
+    {
+      "word": "speech",
+      "example": "The president gave an inspiring speech to the nation.",
+      "meaning": "konuşma, söylev",
+      "translation": "Başkan ulusa ilham verici bir konuşma yaptı."
+    },
+    {
+      "word": "fistfull",
+      "example": "He grabbed a fistfull of coins from the jar.",
+      "meaning": "avuç dolusu",
+      "translation": "Kavanozdan bir avuç dolusu bozuk para aldı."
+    },
+    {
+      "word": "umbrella term",
+      "example": "Software development is an umbrella term that covers many specializations.",
+      "meaning": "genel/kapsayıcı terim",
+      "translation": "Yazılım geliştirme birçok uzmanlık alanını kapsayan genel bir terimdir."
+    },
+    {
+      "word": "abbreviations",
+      "example": "Many abbreviations are used in text messaging.",
+      "meaning": "kısaltmalar",
+      "translation": "Mesajlaşmada birçok kısaltma kullanılır."
+    },
+    {
+      "word": "offer",
+      "example": "They offered me a job at their company.",
+      "meaning": "teklif etmek, sunmak",
+      "translation": "Bana şirketlerinde bir iş teklif ettiler."
+    },
+    {
+      "word": "such as",
+      "example": "I enjoy outdoor activities such as hiking and camping.",
+      "meaning": "gibi, örneğin",
+      "translation": "Yürüyüş ve kamp gibi açık hava aktivitelerinden hoşlanırım."
+    },
+    {
+      "word": "introduce",
+      "example": "Let me introduce you to my colleague.",
+      "meaning": "tanıştırmak, sunmak",
+      "translation": "Seni meslektaşımla tanıştırayım."
+    },
+    {
+      "word": "string concatenation",
+      "example": "String concatenation is a common operation in programming.",
+      "meaning": "metin birleştirme",
+      "translation": "Metin birleştirme, programlamada yaygın bir işlemdir."
+    },
+    {
+      "word": "under neath",
+      "example": "The cat is hiding underneath the table.",
+      "meaning": "altında",
+      "translation": "Kedi masanın altında saklanıyor."
+    },
+    {
+      "word": "whatsoever",
+      "example": "I have no interest whatsoever in that topic.",
+      "meaning": "hiç, asla",
+      "translation": "O konuya hiç ilgim yok."
+    },
+    {
+      "word": "indentation",
+      "example": "Proper indentation makes code more readable.",
+      "meaning": "girinti",
+      "translation": "Doğru girinti, kodu daha okunabilir yapar."
+    },
+    {
+      "word": "stands for",
+      "example": "HTML stands for HyperText Markup Language.",
+      "meaning": "kısaltması, anlamına gelir",
+      "translation": "HTML, HyperText Markup Language'ın kısaltmasıdır."
+    },
+    {
+      "word": "glance",
+      "example": "I took a quick glance at the document.",
+      "meaning": "göz atmak, bakış",
+      "translation": "Belgeye hızlıca göz attım."
+    },
+    {
+      "word": "interpret",
+      "example": "It's difficult to interpret his intentions.",
+      "meaning": "yorumlamak, çevirmek",
+      "translation": "Onun niyetlerini yorumlamak zor."
+    },
+    {
+      "word": "quite often",
+      "example": "I visit my grandmother quite often.",
+      "meaning": "oldukça sık",
+      "translation": "Büyükannemi oldukça sık ziyaret ederim."
+    },
+    {
+      "word": "meant",
+      "example": "I didn't understand what you meant by that.",
+      "meaning": "demek istedi, kastetmek",
+      "translation": "Bununla ne demek istediğini anlamadım."
+    },
+    {
+      "word": "certain",
+      "example": "I'm certain that he will arrive on time.",
+      "meaning": "emin, belirli",
+      "translation": "Zamanında varacağından eminim."
+    },
+    {
+      "word": "explanation sake",
+      "example": "For explanation sake, let me simplify this concept.",
+      "meaning": "açıklama yapmak adına",
+      "translation": "Açıklama yapmak adına, bu konsepti basitleştireyim."
+    },
+    {
+      "word": "suppose",
+      "example": "I suppose you're right about that.",
+      "meaning": "sanmak, varsaymak",
+      "translation": "Sanırım bu konuda haklısın."
+    },
+    {
+      "word": "be supposed to",
+      "example": "You are supposed to submit the report by Friday.",
+      "meaning": "-meli, -ması gerekiyor",
+      "translation": "Raporu Cuma gününe kadar teslim etmen gerekiyor."
+    },
+    {
+      "word": "or else",
+      "example": "Hurry up, or else we'll be late.",
+      "meaning": "yoksa, aksi takdirde",
+      "translation": "Acele et, yoksa geç kalacağız."
+    },
+    {
+      "word": "plenty of",
+      "example": "We have plenty of time before the meeting.",
+      "meaning": "bol miktarda, çok fazla",
+      "translation": "Toplantıdan önce bol miktarda zamanımız var."
+    },
+    {
+      "word": "a number of",
+      "example": "A number of students failed the exam.",
+      "meaning": "bir takım, birçok",
+      "translation": "Birçok öğrenci sınavda başarısız oldu."
+    },
+    {
+      "word": "lend",
+      "example": "Can you lend me your pen?",
+      "meaning": "ödünç vermek",
+      "translation": "Kalemini bana ödünç verebilir misin?"
+    },
+    {
+      "word": "same across",
+      "example": "The policy is the same across all departments.",
+      "meaning": "her yerde aynı",
+      "translation": "Politika tüm departmanlarda aynı."
+    },
+    {
+      "word": "bottleneck",
+      "example": "The slow server is a bottleneck in our system.",
+      "meaning": "darboğaz, tıkanıklık noktası",
+      "translation": "Yavaş sunucu, sistemimizde bir darboğaz."
+    },
+    {
+      "word": "to make possible",
+      "example": "Technology makes it possible to work from anywhere.",
+      "meaning": "mümkün kılmak",
+      "translation": "Teknoloji her yerden çalışmayı mümkün kılıyor."
+    },
+    {
+      "word": "act",
+      "example": "We need to act quickly to solve this problem.",
+      "meaning": "hareket etmek, davranmak",
+      "translation": "Bu sorunu çözmek için hızlı hareket etmeliyiz."
+    },
+    {
+      "word": "assertion",
+      "example": "His assertion was later proven to be correct.",
+      "meaning": "iddia, sav",
+      "translation": "Onun iddiası daha sonra doğru olduğu kanıtlandı."
+    },
+    {
+      "word": "ahead",
+      "example": "There are many challenges ahead of us.",
+      "meaning": "önde, ilerde",
+      "translation": "Önümüzde birçok zorluk var."
+    },
+    {
+      "word": "optimal",
+      "example": "We need to find the optimal solution to this problem.",
+      "meaning": "en iyi, optimal",
+      "translation": "Bu sorun için en iyi çözümü bulmalıyız."
+    },
+    {
+      "word": "ingredients",
+      "example": "The recipe lists all the necessary ingredients.",
+      "meaning": "malzemeler, bileşenler",
+      "translation": "Tarif tüm gerekli malzemeleri listeler."
+    },
+    {
+      "word": "silly",
+      "example": "That was a silly mistake on my part.",
+      "meaning": "aptalca, saçma",
+      "translation": "Bu benim tarafımdan aptalca bir hataydı."
+    },
+    {
+      "word": "a bunch of",
+      "example": "I bought a bunch of flowers for her.",
+      "meaning": "bir sürü, bir demet",
+      "translation": "Onun için bir demet çiçek aldım."
+    },
+    {
+      "word": "tangerine",
+      "example": "I love eating tangerines in winter.",
+      "meaning": "mandalina",
+      "translation": "Kışın mandalina yemeyi seviyorum."
+    },
+    {
+      "word": "sly",
+      "example": "He gave me a sly smile.",
+      "meaning": "kurnaz, sinsi",
+      "translation": "Bana kurnaz bir gülümseme verdi."
+    },
+    {
+      "word": "fortune",
+      "example": "He made a fortune in the tech industry.",
+      "meaning": "servet, talih",
+      "translation": "Teknoloji sektöründe servet yaptı."
+    },
+    {
+      "word": "consist",
+      "example": "The team consists of five members.",
+      "meaning": "oluşmak, meydana gelmek",
+      "translation": "Takım beş üyeden oluşuyor."
+    },
+    {
+      "word": "toward",
+      "example": "She walked toward the exit.",
+      "meaning": "doğru, -e doğru",
+      "translation": "Çıkışa doğru yürüdü."
+    },
+    {
+      "word": "whether",
+      "example": "I don't know whether he will come or not.",
+      "meaning": "olup olmadığı, -ip -meyeceği",
+      "translation": "Gelip gelmeyeceğini bilmiyorum."
+    },
+    {
+      "word": "expectations",
+      "example": "The movie exceeded my expectations.",
+      "meaning": "beklentiler",
+      "translation": "Film beklentilerimi aştı."
+    },
+    {
+      "word": "so-called",
+      "example": "The so-called expert didn't know much about the subject.",
+      "meaning": "sözde, sözüm ona",
+      "translation": "Sözde uzman konu hakkında pek bir şey bilmiyordu."
+    },
+    {
+      "word": "restrictions",
+      "example": "There are some restrictions on travel to that country.",
+      "meaning": "kısıtlamalar, sınırlamalar",
+      "translation": "O ülkeye seyahat konusunda bazı kısıtlamalar var."
+    },
+    {
+      "word": "system-wide",
+      "example": "We implemented a system-wide update last night.",
+      "meaning": "sistem çapında",
+      "translation": "Dün gece sistem çapında bir güncelleme yaptık."
+    },
+    {
+      "word": "coming to the point",
+      "example": "Coming to the point, we need to reduce costs.",
+      "meaning": "konuya gelmek gerekirse",
+      "translation": "Konuya gelmek gerekirse, maliyetleri düşürmeliyiz."
+    },
+    {
+      "word": "frankly",
+      "example": "Frankly speaking, I don't think this will work.",
+      "meaning": "açıkçası, doğrusu",
+      "translation": "Açıkçası, bunun işe yarayacağını düşünmüyorum."
+    },
+    {
+      "word": "under certain circumstances",
+      "example": "Under certain circumstances, exceptions can be made.",
+      "meaning": "belirli koşullar altında",
+      "translation": "Belirli koşullar altında istisnalar yapılabilir."
+    },
+    {
+      "word": "nitty gritty",
+      "example": "Let's get down to the nitty gritty of the project.",
+      "meaning": "işin özü, ayrıntılar",
+      "translation": "Projenin ayrıntılarına inelim."
+    },
+    {
+      "word": "further",
+      "example": "We need to investigate this matter further.",
+      "meaning": "daha fazla, ek olarak",
+      "translation": "Bu konuyu daha fazla araştırmamız gerekiyor."
+    },
+    {
+      "word": "refer",
+      "example": "Please refer to the manual for instructions.",
+      "meaning": "atıfta bulunmak, başvurmak",
+      "translation": "Talimatlar için lütfen kılavuza başvurun."
+    },
+    {
+      "word": "within",
+      "example": "The package will arrive within three days.",
+      "meaning": "içinde, -de",
+      "translation": "Paket üç gün içinde gelecek."
+    },
+    {
+      "word": "monologue",
+      "example": "The actor performed a powerful monologue.",
+      "meaning": "monolog, tek kişilik konuşma",
+      "translation": "Aktör güçlü bir monolog sergiledi."
+    },
+    {
+      "word": "context",
+      "example": "You need to understand the context of the situation.",
+      "meaning": "bağlam, içerik",
+      "translation": "Durumun bağlamını anlamanız gerekiyor."
+    },
+    {
+      "word": "essay",
+      "example": "We have to write an essay about climate change.",
+      "meaning": "deneme, makale",
+      "translation": "İklim değişikliği hakkında bir makale yazmamız gerekiyor."
+    },
+    {
+      "word": "century",
+      "example": "The 21st century has brought many technological advances.",
+      "meaning": "yüzyıl",
+      "translation": "21. yüzyıl birçok teknolojik ilerleme getirdi."
+    },
+    {
+      "word": "flavor (adj)",
+      "example": "This ice cream has a strawberry flavor.",
+      "meaning": "tat, lezzet",
+      "translation": "Bu dondurmada çilek tadı var."
+    },
+    {
+      "word": "flavor (general)",
+      "example": "Add some flavor to the dish with herbs.",
+      "meaning": "tat vermek, lezzet katmak",
+      "translation": "Yemeğe otlarla biraz lezzet kat."
+    },
+    {
+      "word": "quite",
+      "example": "The movie was quite interesting.",
+      "meaning": "oldukça, epey",
+      "translation": "Film oldukça ilginçti."
+    },
+    {
+      "word": "decade",
+      "example": "She lived abroad for a decade.",
+      "meaning": "on yıl",
+      "translation": "On yıl boyunca yurt dışında yaşadı."
+    },
+    {
+      "word": "advise",
+      "example": "I advise you to think carefully before making a decision.",
+      "meaning": "tavsiye etmek, öğüt vermek",
+      "translation": "Karar vermeden önce dikkatlice düşünmeni tavsiye ederim."
+    },
+    {
+      "word": "razor",
+      "example": "He cut himself while shaving with a razor.",
+      "meaning": "jilet, tıraş bıçağı",
+      "translation": "Jilet ile tıraş olurken kendini kesti."
+    },
+    {
+      "word": "cattle",
+      "example": "The farmer raises cattle on his ranch.",
+      "meaning": "sığır, büyükbaş hayvan",
+      "translation": "Çiftçi çiftliğinde sığır yetiştiriyor."
+    },
+    {
+      "word": "attic",
+      "example": "We store old furniture in the attic.",
+      "meaning": "tavan arası, çatı katı",
+      "translation": "Eski mobilyaları tavan arasında saklıyoruz."
+    },
+    {
+      "word": "lawn",
+      "example": "He mows the lawn every Sunday.",
+      "meaning": "çim, çimen",
+      "translation": "Her Pazar çimleri biçiyor."
+    },
+    {
+      "word": "mow",
+      "example": "I need to mow the grass this weekend.",
+      "meaning": "biçmek (çim)",
+      "translation": "Bu hafta sonu çimleri biçmem gerekiyor."
+    },
+    {
+      "word": "quote",
+      "example": "She used a famous quote in her speech.",
+      "meaning": "alıntı, tırnak içine almak",
+      "translation": "Konuşmasında ünlü bir alıntı kullandı."
+    },
+    {
+      "word": "reconsider",
+      "example": "I think you should reconsider your decision.",
+      "meaning": "yeniden düşünmek",
+      "translation": "Kararını yeniden düşünmelisin bence."
+    },
+    {
+      "word": "attitudes",
+      "example": "People have different attitudes toward work.",
+      "meaning": "tutumlar, yaklaşımlar",
+      "translation": "İnsanların işe karşı farklı tutumları var."
+    },
+    {
+      "word": "take apart",
+      "example": "He likes to take apart old machines to see how they work.",
+      "meaning": "sökmek, parçalarına ayırmak",
+      "translation": "Nasıl çalıştıklarını görmek için eski makineleri sökmeyi sever."
+    },
+    {
+      "word": "muggers",
+      "example": "The police caught the muggers who stole her purse.",
+      "meaning": "soyguncu, yankesici",
+      "translation": "Polis çantasını çalan soyguncuları yakaladı."
+    },
+    {
+      "word": "vice versa",
+      "example": "You can convert euros to dollars and vice versa.",
+      "meaning": "tersi de geçerli, bunun tersi",
+      "translation": "Euro'yu dolara çevirebilirsiniz ve bunun tersi de geçerli."
+    },
+    {
+      "word": "flat",
+      "example": "We live in a small flat in the city center.",
+      "meaning": "daire, düz",
+      "translation": "Şehir merkezinde küçük bir dairede yaşıyoruz."
+    },
+    {
+      "word": "have a break",
+      "example": "Let's have a break and continue later.",
+      "meaning": "mola vermek",
+      "translation": "Mola verelim ve sonra devam edelim."
+    },
+    {
       "word": "admire",
       "example": "I really admire her dedication and hard work.",
       "meaning": "hayranlık duymak, beğenmek",
