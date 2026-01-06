@@ -1,11 +1,11 @@
 {
   "words": [
     {
-      "word": "transcribers",
+      "word": "transcribersd",
       "example": "The transcribers worked diligently to convert the audio recordings into written text.",
       "meaning": "yazıcılar, çevirmenler",
       "translation": "Yazıcılar, ses kayıtlarını yazılı metne dönüştürmek için özenle çalıştılar.",
-      "status": "learning"
+      "status": "learned"
     },
     {
       "word": "cook",
@@ -208,7 +208,7 @@
       "example": "Technology makes it possible to work from anywhere.",
       "meaning": "mümkün kılmak",
       "translation": "Teknoloji her yerden çalışmayı mümkün kılıyor.",
-      "status": "learning"
+      "status": "learned"
     },
     {
       "word": "act",
@@ -257,7 +257,7 @@
       "example": "I bought a bunch of flowers for her.",
       "meaning": "bir sürü, bir demet",
       "translation": "Onun için bir demet çiçek aldım.",
-      "status": "learning"
+      "status": "learned"
     },
     {
       "word": "tangerine",
@@ -502,7 +502,7 @@
       "example": "He likes to take apart old machines to see how they work.",
       "meaning": "sökmek, parçalarına ayırmak",
       "translation": "Nasıl çalıştıklarını görmek için eski makineleri sökmeyi sever.",
-      "status": "learning"
+      "status": "learned"
     },
     {
       "word": "muggers",
@@ -572,7 +572,7 @@
       "example": "The word 'happy' and 'joyful' are synonyms.",
       "meaning": "eş anlamlı kelime",
       "translation": "'Happy' ve 'joyful' kelimeleri eş anlamlıdır.",
-      "status": "learning"
+      "status": "learned"
     },
     {
       "word": "subset",
@@ -593,7 +593,7 @@
       "example": "Parents should nurture their children's talents.",
       "meaning": "beslemek, yetiştirmek",
       "translation": "Ebeveynler çocuklarının yeteneklerini beslemelidir.",
-      "status": "learning"
+      "status": "learned"
     },
     {
       "word": "essential",
@@ -691,7 +691,7 @@
       "example": "I read the entire book in one day.",
       "meaning": "bütün, tüm",
       "translation": "Bütün kitabı bir günde okudum.",
-      "status": "learning"
+      "status": "learned"
     },
     {
       "word": "consider",
@@ -845,7 +845,7 @@
       "example": "The city was literally covered in snow.",
       "meaning": "tam anlamıyla, kelimenin tam anlamıyla",
       "translation": "Şehir tam anlamıyla karla kaplıydı.",
-      "status": "learning"
+      "status": "learned"
     },
     {
       "word": "criticize",
@@ -873,6 +873,13 @@
       "example": "You resemble your mother very much.",
       "meaning": "benzemek",
       "translation": "Annene çok benziyorsun.",
+      "status": "learning"
+    },
+    {
+      "word": "beautiful",
+      "example": "The sunset is beautiful tonigh",
+      "meaning": "güzel",
+      "translation": "gün batımı bu gece çok güzel",
       "status": "learning"
     },
     {
